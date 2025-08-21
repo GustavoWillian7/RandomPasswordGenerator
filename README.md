@@ -6,7 +6,6 @@ Este é um projeto de um gerador de senhas aleatórias com base nas preferência
 
 1. **Instalação:**
 
-   - Certifique-se de ter o Node.js instalado em seu sistema.
    - Clone este repositório para o seu computador.
 
 ```bash
